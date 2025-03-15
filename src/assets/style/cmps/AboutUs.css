@@ -1,0 +1,9 @@
+.about-us {
+    flex-grow: 1;
+
+    img {
+        width: 20%;
+        display: block;
+        margin: 5em auto 0.5em;
+    }
+}

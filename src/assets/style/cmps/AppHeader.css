@@ -1,0 +1,30 @@
+.app-header {
+    background-color: var(--clr1);
+    color: var(--clr1bg);
+    padding-block: 1em 0.5em;
+}
+
+.shopping-cart-link {
+    position: relative;
+}
+
+.shopping-cart-count {
+    position: absolute;
+    width: 1em;
+    height: 1em;
+    padding: 0.7em;
+    background-color: red;
+    color: white;
+    border-radius: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    bottom: 100%;
+    left: 100%;
+}
+
+.app-nav {
+    display: flex;
+    gap: 15px;
+}
+

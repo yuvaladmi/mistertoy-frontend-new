@@ -1,0 +1,12 @@
+.home-page {
+    text-align: center;
+
+    .counter-actions{
+        
+    }
+
+    button {
+        margin-inline: 1em;
+        font-size: 20px;
+    }
+}
